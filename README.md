@@ -1,4 +1,4 @@
-# DESN 368 portfolio
+# DESN 368 portfolio Elissa Toulou
 
 **Live site:** `https://etoulou.github.io/desn368-portfilio/` (put your own address here once Pages is on)
 
